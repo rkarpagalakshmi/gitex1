@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is file1
 file1 only changed 
+=======
+this is file1 and newgit
+>>>>>>> newgit
